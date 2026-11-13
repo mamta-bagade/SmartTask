@@ -15,7 +15,11 @@ SmartTask is a full-stack web application designed to help teams manage projects
 
 ## 💻 Tech Stack
 Frontend: React 18, Vite, React Router, Axios, CSS3
+
+
 Backend: Java 17, Spring Boot, Spring Security, JWT, Spring Data JPA
+
+
 Database: MySQL (Railway Cloud)
 
 ## ⚙️ How to Run Locally
