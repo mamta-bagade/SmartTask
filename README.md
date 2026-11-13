@@ -3,7 +3,7 @@
 SmartTask is a full-stack web application designed to help teams manage projects and tasks efficiently. It features Role-Based Access Control (RBAC), JWT Authentication, and an interactive Kanban board.
 
 ## 🚀 Live Demo
-
+https://smart-task-indol.vercel.app
 
 ## ✨ Features
 1.  Authentication: Secure Register & Login using JWT and BCrypt.
@@ -29,3 +29,4 @@ Database: MySQL (Railway Cloud)
 4. Run Frontend: `cd smarttask-frontend` -> `npm install` -> `npm run dev`
 
 ## 👨‍💻 Author
+Mamta bagade
